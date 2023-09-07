@@ -1,0 +1,35 @@
+====================> 2023-07-24 19:38:32
+message => could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+errorType => Error
+error => Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+
+====================> 2023-07-24 19:38:59
+message => could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+errorType => Error
+error => Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+
+====================> 2023-07-24 19:39:15
+message => could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+errorType => Error
+error => Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+
+====================> 2023-07-24 19:39:59
+message => could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+errorType => Error
+error => Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+
+====================> 2023-07-24 19:40:19
+message => could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+errorType => Error
+error => Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+
+====================> 2023-07-24 19:40:43
+message => could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+errorType => Error
+error => Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+
+====================> 2023-07-24 19:44:50
+message => could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+errorType => Error
+error => Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.1)
+

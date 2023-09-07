@@ -1,0 +1,110 @@
+[
+    {
+        "img_url": "10.svg",
+        "trait": 10,
+        "strength": 0,
+        "selected": false
+    },
+    {
+        "img_url": "9.svg",
+        "trait": 9,
+        "strength": 0,
+        "selected": false
+    },
+    {
+        "img_url": "2.svg",
+        "trait": 2,
+        "strength": 0,
+        "selected": false
+    },
+    {
+        "img_url": "3.svg",
+        "trait": 3,
+        "strength": 6,
+        "selected": false
+    },
+    {
+        "img_url": "4.svg",
+        "trait": 4,
+        "strength": 6,
+        "selected": false
+    },
+    {
+        "img_url": "5.svg",
+        "trait": 5,
+        "strength": 8,
+        "selected": false
+    },
+    {
+        "img_url": "6.svg",
+        "trait": 6,
+        "strength": 5,
+        "selected": false
+    },
+    {
+        "img_url": "7.svg",
+        "trait": 7,
+        "strength": 3,
+        "selected": false
+    },
+    {
+        "img_url": "8.svg",
+        "trait": 8,
+        "strength": 2,
+        "selected": false
+    },
+    {
+        "img_url": "0.svg",
+        "trait": 0,
+        "strength": 0,
+        "selected": false
+    },
+    {
+        "img_url": "1.svg",
+        "trait": 1,
+        "strength": 0,
+        "selected": false
+    },
+    {
+        "img_url": "4.svg",
+        "trait": 4,
+        "strength": 2,
+        "selected": false
+    },
+    {
+        "img_url": "5.svg",
+        "trait": 5,
+        "strength": 5,
+        "selected": false
+    },
+    {
+        "img_url": "6.svg",
+        "trait": 6,
+        "strength": 3,
+        "selected": false
+    },
+    {
+        "img_url": "7.svg",
+        "trait": 7,
+        "strength": 4,
+        "selected": false
+    },
+    {
+        "img_url": "8.svg",
+        "trait": 8,
+        "strength": 3,
+        "selected": false
+    },
+    {
+        "img_url": "2.svg",
+        "trait": 2,
+        "strength": 0,
+        "selected": false
+    },
+    {
+        "img_url": "3.svg",
+        "trait": 3,
+        "strength": 2,
+        "selected": false
+    }
+]
