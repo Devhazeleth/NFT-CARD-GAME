@@ -1,7 +1,11 @@
-# NFT Card Game - Backend
+
+# NFT Card Game - Backend 
 
 ##  🔎 Overview 
 Welcome to the repository for the backend of our NFT Card Game! This project is a blockchain-based card game where players can collect, trade, and battle with unique NFT (Non-Fungible Token) cards. This repository contains the server-side code responsible for managing user accounts, game logic, and interactions with the blockchain.
+
+![cARD 7](https://github.com/Devhazeleth/NFT-CARD-GAME/assets/140901105/7fd2f286-5681-4a67-af0c-51327e10b5b0)
+
 
 #  📝 Features
 
@@ -18,6 +22,9 @@ Welcome to the repository for the backend of our NFT Card Game! This project is 
 - Database Integration: Storage and retrieval of user data and game-related information.
 
 - Scalability: Designed for scalability to accommodate a growing player base.
+
+ ![Card 4](https://github.com/Devhazeleth/NFT-CARD-GAME/assets/140901105/48c16891-eb33-477e-988d-e093ebeb28a6)
+
 
   # 💻  Getting Started
   
@@ -53,6 +60,9 @@ To set up and run the NFT Card Game Backend, follow these steps:
     
    We welcome contributions from the community to enhance this project. If you have ideas for new features, bug fixes, or improvements, please open an 
    issue or submit a pull request. We appreciate your help in making this NFT Card Game even better!
+
+   ![Card 5](https://github.com/Devhazeleth/NFT-CARD-GAME/assets/140901105/c4339c28-f75b-44f3-99c7-53225d9b39c1)
+
 
   # 💳  License
   
